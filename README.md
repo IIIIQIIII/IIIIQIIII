@@ -10,7 +10,7 @@ I build **specialized small models + a self-developed Agent framework (Harness)*
 
 ### 🚀 Flagship Project
 
-**[LocoAgent](https://github.com/IIIIQIIII/LocoAgent)** — An AI social-media operation software for global growth.
+**[LocoAgent](https://github.com/LocoreMind/locoagent)** — An AI social-media operation software for global growth.
 Self-built Agent framework + a fine-tuned specialized small model, so anyone can autonomously run multi-platform social accounts at a fraction of the cost.
 `⭐ 1000+ Stars` · `TypeScript` · framework + model, all-in-one.
 
